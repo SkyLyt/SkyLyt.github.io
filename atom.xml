@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://skylyt.top/"/>
-  <updated>2019-06-20T01:52:16.879Z</updated>
+  <updated>2019-06-20T04:48:14.092Z</updated>
   <id>http://skylyt.top/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>最详细的SQL Server2008 安装图解</title>
+    <link href="http://skylyt.top/2019/06/20/sqlServerInstall/"/>
+    <id>http://skylyt.top/2019/06/20/sqlServerInstall/</id>
+    <published>2019-06-20T04:39:05.371Z</published>
+    <updated>2019-06-20T04:48:14.092Z</updated>
+    
+    <content type="html"><![CDATA[<p>参考：<a href="https://blog.csdn.net/mingxuanyun/article/details/7752259" target="_blank" rel="noopener">https://blog.csdn.net/mingxuanyun/article/details/7752259</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;参考：&lt;a href=&quot;https://blog.csdn.net/mingxuanyun/article/details/7752259&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://blog.csdn.net/mingxuanyun/a
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Markdown 编辑阅读器</title>
